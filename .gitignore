@@ -8,3 +8,6 @@ dataset/*
 __pycache__
 *.py[cod]
 mnist.py
+
+*.csv
+*.txt
